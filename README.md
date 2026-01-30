@@ -1,6 +1,6 @@
 # LLM-Research-Notes
 
-This repository is a curated collection of paper summaries and technical analyses created **by enthusiasts, for enthusiasts** who want to better understand Large Language Models (LLMs) and modern AI systems.
+This repository is a curated collection of paper summaries and technical analyses created **for enthusiasts** who want to better understand Large Language Models (LLMs) and modern AI systems.
 
 ## Purpose
 
